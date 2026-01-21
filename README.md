@@ -29,7 +29,7 @@
 ```js
 const nicolas = {
   status: "Turning coffee into <code/>",
-  skills: ["Making bugs", "Fixing bugs I made", "Mass Googling"],
+  skills: ["Making bugs", "Fixing bugs I made", "Abusing all of the LLMs"],
   currentMood: mass_panic ? "This is fine 🔥" : "Ship it 🚀",
 
   dailyRoutine: async () => {
