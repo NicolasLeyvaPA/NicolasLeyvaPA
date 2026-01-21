@@ -1,6 +1,6 @@
-<!-- Matrix-style Header -->
+<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00d9ff,100:0d1117&height=200&section=header&text=Nicolas%20Leyva&fontSize=50&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Code%20Architect&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:238636,100:0d1117&height=200&section=header&text=Nicolas%20Leyva&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Code%20Architect&descAlignY=55&descSize=18&descColor=8b949e"/>
 </div>
 
 <!-- Coding GIF -->
@@ -19,7 +19,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+while(alive)+%7B+code();+%7D;%3E+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+while(alive)+%7B+code();+%7D;%3E+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
   </a>
 </div>
 
@@ -101,21 +101,21 @@ const nicolas = {
   <table>
     <tr>
       <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="100"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
         <br/>
         <strong>Backend Systems</strong>
         <br/>
         Building robust, scalable APIs and microservices that handle millions of requests
       </td>
       <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/238353467-f77f25c3-3c80-4f16-8c0c-d0c1a7eb2fd3.gif" width="100"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
         <br/>
         <strong>Algorithm Design</strong>
         <br/>
         Crafting efficient solutions for complex computational problems
       </td>
       <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/238353472-2bf86a31-cfad-4fce-a48e-c35c7a62fbd3.gif" width="100"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
         <br/>
         <strong>Full Stack Apps</strong>
         <br/>
@@ -156,7 +156,7 @@ const nicolas = {
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NicolasLeyvaPA&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=NicolasLeyvaPA&label=Profile%20Views&color=238636&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <br/>
@@ -169,4 +169,4 @@ const nicolas = {
 <br/>
 
 <!-- Footer with Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:0d1117&height=120&section=footer"/>
