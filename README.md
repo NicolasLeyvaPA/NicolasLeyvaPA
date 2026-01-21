@@ -48,7 +48,7 @@ const nicolas = {
   hobbies: [
     "Refactoring at 3am",
     "Naming variables",
-    "Closing vim"
+    "Closing Visual Studio"
   ],
 
   dailyRoutine: () => {
