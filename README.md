@@ -40,7 +40,7 @@ const nicolas = {
   skills: [
     "Making bugs",
     "Fixing bugs I made",
-    "Googling stuff"
+    "Coding random stuff"
   ],
   currentMood: mass_panic
     ? "This is fine 🔥"
