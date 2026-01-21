@@ -28,16 +28,14 @@
 
 ```js
 const nicolas = {
-  status: "Turning ☕ into <code/>",
+  status: "Turning coffee into <code/>",
   skills: ["Making bugs", "Fixing bugs I made", "Mass Googling"],
   currentMood: mass_panic ? "This is fine 🔥" : "Ship it 🚀",
 
   dailyRoutine: async () => {
     while (alive) {
-      const idea = await shower.randomThought();
-
       try {
-        code(idea);
+        code();
         git.commit("fix: mass changes");
         git.push("--force");  // living dangerously
       } catch (bug) {
