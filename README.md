@@ -26,38 +26,38 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> About Me
 
-<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320"/>
-
 ```js
 const nicolas = {
-  status: "Turning coffee into code",
-  skills: [
-    "Making bugs",
-    "Fixing bugs I made",
-    "Coding random stuff"
-  ],
-  currentMood: mass_panic
-    ? "This is fine 🔥"
-    : "Let's ship it",
-  hobbies: [
-    "Refactoring at 3am",
-    "Naming variables",
-    "Closing Visual Studio"
-  ],
+  status: "Turning ☕ into <code/>",
+  skills: ["Making bugs", "Fixing bugs I made", "Mass Googling"],
+  currentMood: mass_panic ? "This is fine 🔥" : "Ship it 🚀",
 
-  dailyRoutine: () => {
-    while (!asleep) {
-      code();
-      if (works) {
-        panic("Why does this work?!");
+  dailyRoutine: async () => {
+    while (alive) {
+      const idea = await shower.randomThought();
+
+      try {
+        code(idea);
+        git.commit("fix: mass changes");
+        git.push("--force");  // living dangerously
+      } catch (bug) {
+        stackoverflow.copy();
+        pretend.toUnderstand();
       }
-      coffee++;
+
+      if (time === "3am" && code.works) {
+        question.reality();
+        resist.urge.toRefactor();
+      }
+
+      coffee.refill();
+      imposterSyndrome.ignore();
     }
   }
 };
-```
 
-<br clear="right"/>
+nicolas.dailyRoutine();  // infinite loop, as intended
+```
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
