@@ -163,7 +163,7 @@ const nicolas = {
 
 <!-- Coding Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20most%20important%20skill%20for%20a%20computer%20scientist%20is%20problem-solving.%20Even%20if%20you%20don%27t%20know%20all%20the%20details%2C%20if%20you%20can%20solve%20the%20problem%2C%20you%20can%20figure%20out%20how%20to%20do%20it.&author=Bill%20Gates"/>
 </div>
 
 <br/>
