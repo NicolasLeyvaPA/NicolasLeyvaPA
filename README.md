@@ -32,36 +32,30 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+</div>
+
+<br/>
+
+<div align="center">
 
 ```cpp
 class SoftwareEngineer {
-public:
+  public:
     string name = "Nicolas Leyva";
-    vector<string> languages = {"C++", "Python", "JavaScript",
-                                 "TypeScript", "SQL"};
-
-    vector<string> skills = {
-        "Algorithm Design",
-        "System Architecture",
-        "High-Performance Computing",
-        "Full Stack Development",
-        "Database Optimization"
-    };
-
+    vector<string> languages = {"C++", "Python", "JavaScript", "TypeScript", "SQL"};
+    vector<string> skills = {"Algorithm Design", "System Architecture",
+                             "High-Performance Computing", "Full Stack Dev"};
     string philosophy = "Write code that writes itself";
 
     void code() {
-        while(coffee > 0) {
-            buildAmazingThings();
-            solveProblems();
-            learn();
-        }
+        while(coffee > 0) { buildAmazingThings(); solveProblems(); learn(); }
     }
 };
 ```
 
-<br clear="right"/>
+</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
