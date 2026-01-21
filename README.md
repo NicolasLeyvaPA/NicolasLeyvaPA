@@ -26,7 +26,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJxY2E5Y3B0Z3J5OHhxbWF4YWNqd3c1dGJ0eGxqMGlkbm8wamNyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 
 ```js
 const nicolas = {
@@ -95,22 +95,22 @@ const nicolas = {
   <table>
     <tr>
       <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"/>
-        <br/>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" width="100"/>
+        <br/><br/>
         <strong>Backend Systems</strong>
         <br/>
         Building robust, scalable APIs and microservices
       </td>
       <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="80"/>
-        <br/>
+        <img src="https://skillicons.dev/icons?i=cpp,python&theme=dark" width="70"/>
+        <br/><br/>
         <strong>Algorithm Design</strong>
         <br/>
         Crafting efficient solutions for complex problems
       </td>
       <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="80"/>
-        <br/>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,postgres&theme=dark" width="100"/>
+        <br/><br/>
         <strong>Full Stack Apps</strong>
         <br/>
         End-to-end development from DB to UI
