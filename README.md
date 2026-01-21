@@ -40,7 +40,7 @@ const nicolas = {
         git.push("--force");  // living dangerously
       } catch (bug) {
         claude.fix(bug);
-        pretend.iWroteThis();
+        pretend.iUnderstand();
       }
 
       if (time === "3am" && code.works) {
