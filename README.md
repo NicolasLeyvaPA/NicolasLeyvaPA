@@ -32,20 +32,24 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> About Me
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
-</div>
-
-<br/>
-
-<div align="center">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
 
 ```js
 const nicolas = {
-  status: "Turning coffee into code since forever",
-  skills: ["Making bugs", "Fixing bugs I made", "Googling stuff"],
-  currentMood: mass_panic ? "This is fine 🔥" : "Let's ship it",
-  hobbies: ["Refactoring at 3am", "Naming variables", "Closing vim"],
+  status: "Turning coffee into code",
+  skills: [
+    "Making bugs",
+    "Fixing bugs I made",
+    "Googling stuff"
+  ],
+  currentMood: mass_panic
+    ? "This is fine 🔥"
+    : "Let's ship it",
+  hobbies: [
+    "Refactoring at 3am",
+    "Naming variables",
+    "Closing vim"
+  ],
 
   dailyRoutine: () => {
     while (!asleep) {
@@ -59,7 +63,7 @@ const nicolas = {
 };
 ```
 
-</div>
+<br clear="right"/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
