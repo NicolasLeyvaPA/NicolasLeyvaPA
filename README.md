@@ -39,8 +39,8 @@ const nicolas = {
         git.commit("fix: mass changes");
         git.push("--force");  // living dangerously
       } catch (bug) {
-        stackoverflow.copy();
-        pretend.toUnderstand();
+        claude.fix(bug);
+        pretend.iWroteThis();
       }
 
       if (time === "3am" && code.works) {
