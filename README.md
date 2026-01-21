@@ -40,18 +40,22 @@
 
 <div align="center">
 
-```cpp
-class SoftwareEngineer {
-  public:
-    string name = "Nicolas Leyva";
-    vector<string> languages = {"C++", "Python", "JavaScript", "TypeScript", "SQL"};
-    vector<string> skills = {"Algorithm Design", "System Architecture",
-                             "High-Performance Computing", "Full Stack Dev"};
-    string philosophy = "Write code that writes itself";
+```js
+const nicolas = {
+  status: "Turning coffee into code since forever",
+  skills: ["Making bugs", "Fixing bugs I made", "Googling stuff"],
+  currentMood: mass_panic ? "This is fine 🔥" : "Let's ship it",
+  hobbies: ["Refactoring at 3am", "Naming variables", "Closing vim"],
 
-    void code() {
-        while(coffee > 0) { buildAmazingThings(); solveProblems(); learn(); }
+  dailyRoutine: () => {
+    while (!asleep) {
+      code();
+      if (works) {
+        panic("Why does this work?!");
+      }
+      coffee++;
     }
+  }
 };
 ```
 
