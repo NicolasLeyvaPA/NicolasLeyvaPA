@@ -1,17 +1,16 @@
+<!-- Matrix Rain Banner -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/225ed00b-4dfc-4f21-928f-94abdc785709" width="100%"/>
+</div>
+
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:238636,100:0d1117&height=200&section=header&text=Nicolas%20Leyva&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Code%20Architect&descAlignY=55&descSize=18&descColor=8b949e"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d1117,100:0d1117&height=120&section=header&text=Nicolas%20Leyva&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=50&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Code%20Architect&descAlignY=80&descSize=16&descColor=008f11"/>
 </div>
 
-<!-- Coding GIF -->
+<!-- Matrix Code Rain -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Matrix SVG"/>
 </div>
 
 <br/>
@@ -19,7 +18,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&repeat=true&width=500&height=60&lines=%3E+while(alive)+%7B+code();+%7D;%3E+Building+the+future+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=60&lines=%3E+while(alive)+%7B+code();+%7D;%3E+Welcome+to+the+Matrix+%F0%9F%90%87" alt="Typing SVG" />
   </a>
 </div>
 
@@ -156,7 +155,7 @@ const nicolas = {
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NicolasLeyvaPA&label=Profile%20Views&color=238636&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=NicolasLeyvaPA&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <br/>
@@ -169,4 +168,4 @@ const nicolas = {
 <br/>
 
 <!-- Footer with Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer"/>
