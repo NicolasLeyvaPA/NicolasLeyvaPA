@@ -139,7 +139,7 @@ const nicolas = {
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/nicolas-leyva">
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-leyva-nl1337/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
   &nbsp;
