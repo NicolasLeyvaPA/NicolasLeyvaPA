@@ -1,16 +1,11 @@
-<!-- Matrix Rain Banner -->
+<!-- Matrix Code Rain -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/225ed00b-4dfc-4f21-928f-94abdc785709" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Matrix SVG"/>
 </div>
 
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d1117,100:0d1117&height=120&section=header&text=Nicolas%20Leyva&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=50&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Code%20Architect&descAlignY=80&descSize=16&descColor=008f11"/>
-</div>
-
-<!-- Matrix Code Rain -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Matrix SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Nicolas%20Leyva&fontSize=70&fontColor=3fb950&animation=fadeIn&fontAlignY=45&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Code%20Architect&descAlignY=75&descSize=18&descColor=8b949e"/>
 </div>
 
 <br/>
@@ -18,7 +13,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=60&lines=%3E+while(alive)+%7B+code();+%7D;%3E+Welcome+to+the+Matrix+%F0%9F%90%87" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&repeat=true&width=500&height=60&lines=%3E+while(alive)+%7B+code();+%7D;%3E+Welcome+to+the+Matrix+%F0%9F%90%87" alt="Typing SVG" />
   </a>
 </div>
 
@@ -155,7 +150,7 @@ const nicolas = {
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NicolasLeyvaPA&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=NicolasLeyvaPA&label=Profile%20Views&color=3fb950&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <br/>
@@ -168,4 +163,4 @@ const nicolas = {
 <br/>
 
 <!-- Footer with Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3fb950,100:0d1117&height=120&section=footer"/>
