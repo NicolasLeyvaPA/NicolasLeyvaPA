@@ -13,7 +13,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&repeat=true&width=500&height=60&lines=%3E+while(alive)+%7B+code();+%7D;%3E+Welcome+to+the+Matrix+%F0%9F%90%87" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&repeat=true&width=550&height=60&lines=%3E+while(alive)+%7B+code();+%7D;%3E+print(%22Welcome+to+the+Matrix%22);%3E+if+(redPill)+return+truth;%3E+if+(bluePill)+return+ignorance;%3E+git+commit+-m+%22reality+updated%22;%3E+sudo+rm+-rf+%2Fdoubts;%3E+npm+install+success+--save" alt="Typing SVG" />
   </a>
 </div>
 
