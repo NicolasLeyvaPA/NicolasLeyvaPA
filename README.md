@@ -46,7 +46,7 @@ class NicolasLeyva:
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,rust,typescript,go,latex&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,ocaml,r,python,rust,latex&theme=dark&perline=6" />
 
 ### Research & Modeling
 <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,fastapi,nodejs,react&theme=dark&perline=6" />
@@ -127,7 +127,19 @@ class NicolasLeyva:
 
 <!-- Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Because%20information%20is%20costly%2C%20prices%20cannot%20perfectly%20reflect%20the%20information%20which%20is%20available%2C%20since%20if%20it%20did%2C%20those%20who%20spent%20resources%20to%20obtain%20it%20would%20receive%20no%20compensation.&author=Grossman%20%26%20Stiglitz%2C%20On%20the%20Impossibility%20of%20Informationally%20Efficient%20Markets%20(1980)"/>
+  <table>
+    <tr>
+      <td width="700" align="center">
+        <br/>
+        <em>"Because information is costly, prices cannot perfectly reflect the information
+        which is available, since if it did, those who spent resources to obtain it
+        would receive no compensation."</em>
+        <br/><br/>
+        — Grossman &amp; Stiglitz, <em>On the Impossibility of Informationally Efficient Markets</em> (1980)
+        <br/><br/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
