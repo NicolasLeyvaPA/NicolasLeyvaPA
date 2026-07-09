@@ -127,7 +127,7 @@ class NicolasLeyva:
 
 <!-- Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Efficient%20market%20theory%20is%20correct%20in%20that%20there%20are%20no%20gross%20inefficiencies.%20But%20we%20look%20at%20anomalies%20that%20may%20be%20small%20in%20size%20and%20brief%20in%20time.&author=Jim%20Simons"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Because%20information%20is%20costly%2C%20prices%20cannot%20perfectly%20reflect%20the%20information%20which%20is%20available%2C%20since%20if%20it%20did%2C%20those%20who%20spent%20resources%20to%20obtain%20it%20would%20receive%20no%20compensation.&author=Grossman%20%26%20Stiglitz%2C%20On%20the%20Impossibility%20of%20Informationally%20Efficient%20Markets%20(1980)"/>
 </div>
 
 <br/>
