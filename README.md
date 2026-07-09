@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Nicolas%20Leyva&fontSize=70&fontColor=d4af37&animation=fadeIn&fontAlignY=45&desc=Forward%20Deployed%20Engineer%20%7C%20Systematic%20Strategies%20%7C%20Capital%20Allocation&descAlignY=75&descSize=18&descColor=8b949e"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Nicolas%20Leyva&fontSize=70&fontColor=d4af37&animation=fadeIn&fontAlignY=45&desc=Forward%20Deployed%20Engineer%20%7C%20Systematic%20Strategies%20%7C%20Quantitative%20Analysis&descAlignY=75&descSize=18&descColor=8b949e"/>
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%3E%3E%3E+import+numpy+as+np%3B+import+capital;%3E%3E%3E+alpha+%3D+signal+-+consensus;%3E%3E%3E+size+%3D+kelly()+%2F+2++%23+always+half;%3E%3E%3E+mark_to_market()++%23+no+stories%2C+just+prints;%3E%3E%3E+the+edge+lives+in+the+residuals;%3E%3E%3E+risk+first%2C+returns+follow" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%3E%3E%3E+alpha+%3D+signal+-+consensus;%3E%3E%3E+maximize+I(signal%3B+returns);%3E%3E%3E+size+%3D+kelly()+%2F+2++%23+always+half;%3E%3E%3E+extract+signal+from+noise;%3E%3E%3E+the+edge+lives+in+the+residuals;%3E%3E%3E+risk+first%2C+returns+follow" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,23 +24,16 @@
 ```python
 class NicolasLeyva:
     mandate = "Find the edge. Price it. Size it. Survive."
-    status  = "sovereign individual — my balance sheet, my jurisdiction"
-    role    = "forward deployed engineer: shipped to where capital meets code"
+    status  = "sovereign individual"
+    role    = "forward deployed engineer — where capital meets code"
     book    = ["statistical arbitrage", "stochastic filtering", "market microstructure"]
-    thesis  = "alpha lives in disagreement — fade the consensus, respect the tape"
+    thesis  = "alpha lives in disagreement with consensus"
 
-    def trading_day(self):
-        while self.solvent:
-            hypothesis = self.research()            # hypotheses, not hunches
-            edge = self.backtest(hypothesis)        # out-of-sample or it didn't happen
-            if edge.sharpe > 1 and edge.survives_costs:
-                self.deploy(edge, size=self.kelly() / 2)
-            self.mark_to_market()                   # every day, no exceptions
-
-    def risk(self, drawdown):
-        if drawdown > self.limit:
-            self.cut()  # the market will still be here tomorrow
-
+    def process(self):
+        hypothesis = self.research()          # hypotheses, not hunches
+        edge = self.validate(hypothesis)      # out-of-sample, net of costs
+        self.deploy(edge, size=self.half_kelly())
+        self.mark_to_market()                 # daily, no exceptions
 ```
 
 <!-- Divider -->
@@ -134,7 +127,7 @@ class NicolasLeyva:
 
 <!-- Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20might%20define%20an%20efficient%20market%20as%20one%20in%20which%20price%20is%20within%20a%20factor%20of%202%20of%20value.%20By%20this%20definition%2C%20I%20think%20almost%20all%20markets%20are%20efficient%20almost%20all%20of%20the%20time.&author=Fischer%20Black%2C%20Noise%20(1986)"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Efficient%20market%20theory%20is%20correct%20in%20that%20there%20are%20no%20gross%20inefficiencies.%20But%20we%20look%20at%20anomalies%20that%20may%20be%20small%20in%20size%20and%20brief%20in%20time.&author=Jim%20Simons"/>
 </div>
 
 <br/>
