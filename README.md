@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Nicolas%20Leyva&fontSize=70&fontColor=d4af37&animation=fadeIn&fontAlignY=45&desc=Quantitative%20Developer%20%7C%20Systematic%20Strategies%20%7C%20Capital%20Allocation&descAlignY=75&descSize=18&descColor=8b949e"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Nicolas%20Leyva&fontSize=70&fontColor=d4af37&animation=fadeIn&fontAlignY=45&desc=Forward%20Deployed%20Engineer%20%7C%20Systematic%20Strategies%20%7C%20Capital%20Allocation&descAlignY=75&descSize=18&descColor=8b949e"/>
 </div>
 
 <br/>
@@ -24,6 +24,8 @@
 ```python
 class NicolasLeyva:
     mandate = "Find the edge. Price it. Size it. Survive."
+    status  = "sovereign individual — my balance sheet, my jurisdiction"
+    role    = "forward deployed engineer: shipped to where capital meets code"
     book    = ["statistical arbitrage", "stochastic filtering", "market microstructure"]
     thesis  = "alpha lives in disagreement — fade the consensus, respect the tape"
 
@@ -132,7 +134,7 @@ class NicolasLeyva:
 
 <!-- Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Markets%20look%20a%20lot%20more%20efficient%20from%20the%20banks%20of%20the%20Charles%20than%20from%20the%20banks%20of%20the%20Hudson.&author=Fischer%20Black"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20might%20define%20an%20efficient%20market%20as%20one%20in%20which%20price%20is%20within%20a%20factor%20of%202%20of%20value.%20By%20this%20definition%2C%20I%20think%20almost%20all%20markets%20are%20efficient%20almost%20all%20of%20the%20time.&author=Fischer%20Black%2C%20Noise%20(1986)"/>
 </div>
 
 <br/>
